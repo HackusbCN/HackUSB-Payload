@@ -1,0 +1,5 @@
+GUI R
+DELAY 6
+STRING cmd
+DELAY 6
+STRING ipconfig

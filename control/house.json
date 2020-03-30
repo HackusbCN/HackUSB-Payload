@@ -1,9 +1,0 @@
-{
-    "status":"200",
-    "msg":"OK",
-    "data":[{
-        "name":"HelloWorld",
-        "doc":"About init HackUSB Payload",
-        "location":"https://raw.githubusercontent.com/HackusbCN/HackUSB-Payload/master/init/HelloWorld.txt",
-    }]
-}

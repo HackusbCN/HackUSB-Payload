@@ -1,1 +1,0 @@
-STRING HelloWorld By HackUSB!
