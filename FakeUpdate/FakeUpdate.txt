@@ -1,0 +1,4 @@
+GUI r
+DELAY 1
+STRING iexplore -k http://fakeupdate.net/wnc
+ENTER
